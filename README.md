@@ -1,19 +1,3 @@
-# Extension Template
-
-Quick start and create a new extension by using this template. Follow the below 4 steps:
-
-Refer this [link](https://github.com/phcode-dev/phoenix/wiki/How-To-Write-Extensions-And-Themes) for detailed extension docs after following the below steps:
-
-## step 1
-
-Login with github: https://github.com/login
-
-## step 2
-
-Create a new repository using this template.
-![New extension from template](https://user-images.githubusercontent.com/5336369/223931565-2708e516-a422-4e7b-9d89-9ac48c919c3d.gif)
-
-## step 3
 
 * Clone your GitHub Repo created from `step 2`. See [this link](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to lean how to clone a repository from GitHub.
 
